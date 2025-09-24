@@ -8,7 +8,7 @@ I’m a server developer focused on back-end development, databases, and messagi
 
 ## How to Reach Me
 
-[![Blog](https://img.shields.io/badge/Blog-blue?style=flat-square&logo=githubpages)](https://h0ng.dev)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=flat-square&logo=githubpages)](https://hongkim.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%EC%A7%80%ED%99%8D-%EA%B9%80-23a7682a3/)
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=JiHongKim98's%20GitHub&descAlignY=73&descAlign=78&desc=Hi!%20there👋🏻&textBg=false&fontColor=a2d9a1&animation=twinkling&fontAlignY=40) -->
