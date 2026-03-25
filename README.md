@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JiHongKim98&color=blue&&style=flat-square&abbreviated=true&label=hits)
+<!--![](https://komarev.com/ghpvc/?username=JiHongKim98&color=blue&&style=flat-square&abbreviated=true&label=hits)-->
 
 # JiHongKim98
 
