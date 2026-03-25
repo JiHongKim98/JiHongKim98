@@ -8,8 +8,9 @@ I’m a server developer focused on back-end development, databases, and messagi
 
 ## How to Reach Me
 
-[![Blog](https://img.shields.io/badge/Blog-blue?style=flat-square&logo=githubpages)](https://hongkim.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%EC%A7%80%ED%99%8D-%EA%B9%80-23a7682a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kinjihong9598@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white)](https://hongkim.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%ED%99%8D-%EA%B9%80-23a7682a3/)
 
 <!-- ![transparent](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=JiHongKim98's%20GitHub&descAlignY=73&descAlign=78&desc=Hi!%20there👋🏻&textBg=false&fontColor=a2d9a1&animation=twinkling&fontAlignY=40) -->
 
