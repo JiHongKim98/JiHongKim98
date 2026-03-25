@@ -2,9 +2,10 @@
 
 # JiHongKim98
 
-Hi there 👋! Thank you for visiting my page.
+Hi there 👋! Thank you for visiting my page. </br>
 
-I’m a server developer focused on back-end development, databases, and messaging systems.
+I’m a server developer focused on back-end development, databases, and messaging systems. </br>
+I enjoy building **scalable systems** using **Event-Driven Architecture (EDA)** to solve complex problems with clean and maintainable code. </br>
 
 ## How to Reach Me
 
