@@ -7,7 +7,7 @@ Hi there 👋! Thank you for visiting my page. </br>
 I’m a server developer focused on back-end development, databases, and messaging systems. </br>
 I enjoy building **scalable systems** using **Event-Driven Architecture (EDA)** to solve complex problems with clean and maintainable code. </br>
 
-## Open Source (Contribute)
+## Open Source (Contributions)
 
 ### Redis Ecosystem
 - **lettuce** — Fix borrowObject timeout wrapping [#3666](https://github.com/redis/lettuce/pull/3666)
