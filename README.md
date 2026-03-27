@@ -1,4 +1,4 @@
-<!--![](https://komarev.com/ghpvc/?username=JiHongKim98&color=blue&&style=flat-square&abbreviated=true&label=hits)-->
+<!-- ![](https://komarev.com/ghpvc/?username=JiHongKim98&color=blue&&style=flat-square&abbreviated=true&label=hits) -->
 
 # JiHongKim98
 
@@ -6,6 +6,23 @@ Hi there 👋! Thank you for visiting my page. </br>
 
 I’m a server developer focused on back-end development, databases, and messaging systems. </br>
 I enjoy building **scalable systems** using **Event-Driven Architecture (EDA)** to solve complex problems with clean and maintainable code. </br>
+
+## Open Source (Contribute)
+
+### Redis Ecosystem
+- **lettuce** — Fix borrowObject timeout wrapping [#3666](https://github.com/redis/lettuce/pull/3666)
+- **rqueue** — Improve default message round-trip consistency [#289](https://github.com/sonus21/rqueue/pull/289)
+- **spring-data-redis** — StreamMessageListenerContainer cancellation on shutdown [#3040](https://github.com/spring-projects/spring-data-redis/pull/3040)
+
+### AI Orchestration & Tools
+- **oh-my-codex** ([+5 more](https://github.com/Yeachan-Heo/oh-my-codex/pulls?q=is%3Apr+author%3Ajihongkim98+is%3Aclosed)) — Fix suppress stale leader nudges from completed teams [#1001](https://github.com/Yeachan-Heo/oh-my-codex/pull/1001) 
+- **oh-my-claudecode ([+4 more](https://github.com/Yeachan-Heo/oh-my-claudecode/pulls?q=is%3Apr+author%3Ajihongkim98+is%3Aclosed))** — Fix disconnect LSP servers on session end [#769](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/769)
+- **oh-my-opencode** — Fix throttle ripgrep CPU usage with thread limits [#2009](https://github.com/code-yeongyu/oh-my-openagent/pull/2009)
+
+## Open Source (Author)
+
+- **[redis-extensions](https://github.com/JiHongKim98/redis-extensions)** — Lightweight annotation-based library for Spring Redis Pub/Sub automation
+- **[madr-gen](https://github.com/JiHongKim98/madr-gen)** — Claude Code plugin for automated Architectural Decision Record (mADR) generation
 
 ## How to Reach Me
 
